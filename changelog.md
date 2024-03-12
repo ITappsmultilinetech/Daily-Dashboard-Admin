@@ -1,4 +1,12 @@
-## 11-03-2024 (Initial Changelog)
+## 12-03-2024
+## Changelog
+
+- Enable Group by warehouse (Asc) for employee master view.
+- Enable Sort by Serial Number (Asc) for employee master view.
+- 
+
+## 11-03-2024 
+## Initial Changelog
 
 - Added the Employee Master as the primary view for user interaction
 - Implemented automatic serial number generation for newly created employee records
